@@ -1,19 +1,19 @@
 {
-  "version": "0.2.2",
-  "notes": "Oryne v0.2.2\uff1a\u4fee\u590d API Key \u4fdd\u5b58\u540e\u91cd\u542f\u6d88\u5931\u7684\u95ee\u9898\u3002",
-  "pub_date": "2026-10-12T04:14:13Z",
+  "version": "0.2.3",
+  "notes": "Oryne v0.2.3 发布说明见主仓库 Release。",
+  "pub_date": "2026-10-12T06:06:03.874Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTZadEhQcnNhUUFQVGZ3dStMZFkxRHFHaWVBbGdQTTU2VC85aXoyV0xoRFVYMHBic1Y3YWdWQmU1OXRZS0ZSK2QyWHhFYXpKMU9adFFGM2VNeGhJbXQydVlMcnd2L2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzc4MTE4CWZpbGU6T3J5bmVfMC4yLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4yCkRDWGJVSWdFaFFuRjM3RnU4cDJUM2NKcENpTVlXeFViVjRyUVN5eTdsSGtyeHc1NzhYbzBPY3l0WnMyZTBlWnRLUElBMnBQUkhDZkZzdDBkYkhuZUFBPT0K",
-      "url": "https://github.com/JinMXu/Oryne-Releases/releases/download/v0.2.2/Oryne_0.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTZadEhQcnNhUUtkTWJiYmRzN2hIa2lWSGszZEQ3RDJlOFlkeGErMzRVVG1aeS81NHNKK2xJcHJDWmJGSnNwR1FrOUVGcXpEZGVyM1h4UXl4SFA0ODdjayt4WVNyc1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzg1MTE1CWZpbGU6T3J5bmVfMC4yLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4zCnhJdXFDQmF0dWhBMzh4eVZwaU8rbW5WK3dQMjhXTG5GR1JjbXdHTE0ySDc0U0hqb2J6bmlyeTdwNU5IaUFlSGV2QnJIZmdUQ0NvbCtJN1BFT2RZUUR3PT0K",
+      "url": "https://github.com/JinMXu/Oryne-Releases/releases/download/v0.2.3/Oryne_0.2.3_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTZadEhQcnNhUVBFSTM5V0tVOWlsTWIxdldPK3RVVmRQbFFtN0VOMjVxWEswZ0ZmT1NZZjJIN0h6a0FhN1ZmT0l6b296TjNGdHc5bit5MHp2SUJxUHk1U1FMQjgySFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzc3NDc2CWZpbGU6T3J5bmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4yCjkzbUZXQ0RXQzBLc3RGUG85YlJnNVFoYUNka0czTm9Xd3FtYW9vcjlvWmVDRVVNQkxTZWk5YjVMdHp2ZUpWaENNMHp2WStNL3FzS2tJRXEvLzZ2SUNBPT0K",
-      "url": "https://github.com/JinMXu/Oryne-Releases/releases/download/v0.2.2/Oryne.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTZadEhQcnNhUUF0cVVyRE9vQVN0TUJFUVIzZks0U1lIdVZDMlBZUE1idHBhbnVHSDUrQkU5SGR3K1huZTNMaVZCSFVWaWYxQitGT2d1WlZCYUpJcW96SmJVcFBKTFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzg0NjExCWZpbGU6T3J5bmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4zCnpRYXRoWTlCU1pnNzZvaUZyZ3R2S3hmcytzNTN4NVJYY1F6TTJSS3dpSGlJUC96SlFNMWJQQ3FYa1pscHN2cWdzSHlzMStlN3Z5QllLQ3FiQmtwN0N3PT0K",
+      "url": "https://github.com/JinMXu/Oryne-Releases/releases/download/v0.2.3/Oryne.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTZadEhQcnNhUU1KZTJ5UlFLQnhTaW4wbUhudllSbHRpTWJKZjA5eTdhRTZ4ODJ6TW90OXpKdlA5bjMyRmhmZUNacmFvZ1FuUFYvNGM0Ry9Ta0lkb2dHRFVHMGhFVHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzc3NzgwCWZpbGU6T3J5bmVfMC4yLjJfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjIuMgpuNm9rMGhTY0NWZUVrSWd4Ty9PdnR4V044RWErM2NwTGs1UXZpb2w3QkgwaXF3d2tuVWdOekl1eVppU0NqWXU4WlRsMkRtbitYRVpHWVRKbDFQd1RCUT09Cg==",
-      "url": "https://github.com/JinMXu/Oryne-Releases/releases/download/v0.2.2/Oryne_0.2.2_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTZadEhQcnNhUUJlS0xkVjZTajRzWGM4aGF0QjVqNHNMZ3pSMTBmbTN1TTUybUd5L09halEvV1FrSHZrUnpwUHJqUnFUc1RodzJ4TnNDSnVUU1orLzhNZURFcWt4VUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzg0OTU3CWZpbGU6T3J5bmVfMC4yLjNfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjIuMwpsVTllZjRLQS9tYWdBcHBGMmsvVWloWWZNTjAwVGFSbFdhUmZHNHNMSmZERTRkN0FHazhHaFkwZ2IxUGNJNm1pVEV3K1JLSGNtTGMxaDJvMU9PNmtCZz09Cg==",
+      "url": "https://github.com/JinMXu/Oryne-Releases/releases/download/v0.2.3/Oryne_0.2.3_amd64.AppImage"
     }
   }
 }
