@@ -1,11 +1,19 @@
 {
   "version": "0.3.2",
-  "notes": "Oryne v0.3.2：界面文案瘦身、霞鹜文楷正文、章节树键盘可达、选区工具条修复（Windows 先行；mac/Linux 待 CI 恢复后补齐）。",
-  "pub_date": "2026-10-29T09:06:42.724Z",
+  "notes": "Oryne v0.3.2 发布说明见主仓库 Release。",
+  "pub_date": "2026-11-02T06:12:49.350Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTZadEhQcnNhUUJNUDFZKzR4dVRMS1RuOUVmdjR2QUptQ2YzNHovMzNoVzhIMFJEWkNMc3h2aWdNdEkwckxTU3UvMjVoU0NDZ25oNm9vQnJqcVVRUUd4SmlpN0hKYmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjY0NzUzCWZpbGU6T3J5bmVfMC4zLjJfeDY0LXNldHVwLmV4ZQpocG1abG16bk43SGlYbURLMENwa0VIaXh3QVVGQm03Q0U4SHd4N0RVeWhaSXVpalM0MFd5ZHlOdUdCekxtZ0xma1Uycmg3S0czczNrdnFRK2RQMENBUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTZadEhQcnNhUUxnSHBVOUZDOFFLd1lWM3NLTUxxalA1Tm9wMjlFdlA4ZUZ2WDNXcE1xdEU1OStLYUNYdEZlRy96UWQ1em11anhSMUo4ZVh1aU5KOElWU3ZlN3NySndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTk5OTIyCWZpbGU6T3J5bmVfMC4zLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4yCm56TWdsSVFqQVJ1NE5PeGlNMzBJMWNOTHVhTHJlUXZ3dE5GY0dIWjRnS0ZNTTkyZUVkY2tkcFR5SFRlc3pEQ2FwSHJVMUZ5bFJyU1RDNUwyVU44dkRRPT0K",
       "url": "https://github.com/JinMXu/Oryne-Releases/releases/download/v0.3.2/Oryne_0.3.2_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTZadEhQcnNhUVBwakpDTlNsa2pGa01TdThTa2p1MlJNVjd2UUtmYWMyc2lJcjUwc09oQzRBbmRTSVdFYnRGb1FxOFlBTEJtNTdaenFFZk9qSDI3WGVBK0I5TVNtaWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTk5NDA3CWZpbGU6T3J5bmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMy4yClV0KzNJcmxwYjRRdjFtdnhUNDhBd0VKOHhzTEhqVFB3cm90UTkzTTk3UHdJSEVpbHBMTS9kWVBCNzhxdFI3QTdIbHVFM05MOGZteDB2Wng3QVM3MkJBPT0K",
+      "url": "https://github.com/JinMXu/Oryne-Releases/releases/download/v0.3.2/Oryne_aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTZadEhQcnNhUU5jNk5GUloxaTdoOWtjWDFSZE1zVUVYSEtMWmEyb0F6SFpyYXliRlo0OWd4WHRCS3loUHVJdkhiZ1FTRlBETExPa3V2dXNpemhIQ2trL01qVG1weWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTk5ODAzCWZpbGU6T3J5bmVfMC4zLjJfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjMuMgpZRWJmSmIwOGJuM2psb2JUWnNiei80UVJTNk04cGxseENQRE5GSkZBalhoMldyN2tTM1RCMkpWU2NNUGlZM2kzZEZLWXlPNEdCY3JDSHpxQVhzMkpBUT09Cg==",
+      "url": "https://github.com/JinMXu/Oryne-Releases/releases/download/v0.3.2/Oryne_0.3.2_amd64.AppImage"
     }
   }
 }
